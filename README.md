@@ -1,5 +1,7 @@
-## Hi there 👋
+## Hey, I’m Koen!
 
+- CS @ University of Utah (’27)
+- I'm a passionate developer who loves building things that make a difference. Always learning, always coding, always exploring new technologies.
 <!--
 **koensakamoto/koensakamoto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
